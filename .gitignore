@@ -104,6 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv*
 env/
 venv/
 ENV/
@@ -131,3 +132,6 @@ dmypy.json
 # quarto publishing
 /.quarto/
 /_site/
+
+# ignore any .db created
+*.db
