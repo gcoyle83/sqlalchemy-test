@@ -9,4 +9,4 @@ This repository hosts a simple `sqlite3` test. It is designed for relatively eas
     -  Activate the virtual env with `.venv/Scripts/Activate.ps1` (Powershell) or `.venv/Scripts/activate` (Bash)
     -  Add required packages with `pip install -r requirements.txt`
 
-Whichever of the above options are selected, next open your IDE of choice, if not already there from above and then open `src/sql-test.ipynb` and select the desired kernel, follow prompts to complete test.
+Whichever of the above options are selected, next open your IDE of choice, if not already there from above and then open `src/skill-test.ipynb` and select the desired kernel, follow prompts to complete test.
