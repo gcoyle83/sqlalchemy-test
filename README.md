@@ -10,3 +10,10 @@ This repository hosts a simple `sqlite3` test. It is designed for relatively eas
     -  Add required packages with `pip install -r requirements.txt`
 
 Whichever of the above options are selected, next open your IDE of choice, if not already there from above and then open `src/skill-test.ipynb` and select the desired kernel, follow prompts to complete test.
+
+# Suggested Testing Format
+Testing is on screen, open Internet. Take 5 minutes to introduce the repo and test, then user has:
+
+-  ~5 minutes to set up test environment as directed above
+-  Provide 15 minutes for coding questions, then stop
+-  Provide 5 minutes for data model discussion questions
